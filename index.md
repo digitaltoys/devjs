@@ -1,11 +1,10 @@
 ## Javascript 기초
 
 ### TAG 구조
-![tag](http://www.devkuma.com/data/page/340/html_element2.png =150x)
+![tag](http://www.devkuma.com/data/page/340/html_element2.png)
 
 
 ### HTML 구조
-![html](https://dinfree.com/assets/img/html3.png =150x)
 ```html
 <!DOCTYPE html>
 <html>
@@ -17,3 +16,5 @@
   </body>
 </html>
 ```
+
+<script async src="//jsfiddle.net/pepsi2/7a61qzwo/embed/html,result/dark/"></script>
