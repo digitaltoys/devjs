@@ -1,7 +1,7 @@
 ## html 기초
 
 ### tag 구조
-![tag](http://www.devkuma.com/data/page/340/html_element2.png)
+![tag](img/html_element2.png)
 
 
 ### html 구조
