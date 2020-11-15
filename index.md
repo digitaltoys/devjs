@@ -1,11 +1,11 @@
 ## Javascript 기초
 
 ### TAG 구조
-![tag](http://www.devkuma.com/data/page/340/html_element2.png)
+![tag](http://www.devkuma.com/data/page/340/html_element2.png =150x)
 
 
 ### HTML 구조
-![html](https://dinfree.com/assets/img/html3.png)
+![html](https://dinfree.com/assets/img/html3.png =150x)
 ```html
 <!DOCTYPE html>
 <html>
