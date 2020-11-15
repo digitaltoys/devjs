@@ -9,6 +9,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <meta charset="UTF-8" />
     <title>html 기본 템플릿</title>
   </head>
   <body>
@@ -17,4 +18,28 @@
 </html>
 ```
 
-<script async src="//jsfiddle.net/pepsi2/7a61qzwo/embed/html,result/dark/"></script>
+### 기본 TAG
+<a>
+<br>
+<div>
+<h1>
+<img>
+<ol>
+  <ul>
+  <li>
+
+<label>
+<input>
+  <input type="checkbox">
+  <input type="color">
+  <input type="date">
+  <input type="file">
+  <input type="password">
+  <input type="range">
+  <input type="submit">
+<button>
+<select>
+  <option>
+<script>
+
+[실습](https://codesandbox.io/s/staic-html-u1zun?fontsize=14&hidenavigation=1&theme=dark)
