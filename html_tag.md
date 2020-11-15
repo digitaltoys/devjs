@@ -1,10 +1,10 @@
-## Javascript 기초
+## html 기초
 
-### TAG 구조
+### tag 구조
 ![tag](http://www.devkuma.com/data/page/340/html_element2.png)
 
 
-### HTML 구조
+### html 구조
 ```html
 <!DOCTYPE html>
 <html>
@@ -18,7 +18,7 @@
 </html>
 ```
 
-### 기본 TAG
+### 기본 tag
 ```
 <a>
 <br>
