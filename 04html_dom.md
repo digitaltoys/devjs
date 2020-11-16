@@ -42,4 +42,17 @@ var bodys = document.getElementsByTagName("body")[0].innerHTML
 > - id는 html문서 내에서 **유일** 해야함.
 (참고 : [getElementById](https://www.w3schools.com/jsref/met_document_getelementbyid.asp))
 
+### 1. 다음 html에서 input의 값을 result에 출력하는 코드를 작성하세요
+```javascript
+<html>
+  <body>
+    <input id='in' value='ok'/>
+    <button>get value</button>
+    <div id='result'></div>
+  </body>
+</html>
+```
+
+### 2. 위 코드에 input을 변경하고 버튼을 누르면 변경된 input 값이 출력 되도록 코드를 수정하세요
+
 ## [< index](index.md)
