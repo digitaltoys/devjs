@@ -33,3 +33,5 @@ var divs = document.getElementsByTagName("div")[0].innerText;    // 'Gildong'
 > - getElementById는 1개를 리턴하지만, getElementsByName, getElementsByTagName은 배열을 리턴함
 > - id는 html문서 내에서 **유일** 해야함.
 (참고 : [getElementById](https://www.w3schools.com/jsref/met_document_getelementbyid.asp))
+
+## [< index](index.md)
