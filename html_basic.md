@@ -50,4 +50,4 @@
 - [실습](https://codesandbox.io/s/staic-html-u1zun?fontsize=14&hidenavigation=1&theme=dark)
 
 
-[index](index.md)
+## [< index](index.md)
