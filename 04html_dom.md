@@ -2,15 +2,19 @@
 ![DOM](https://www.w3schools.com/js/pic_htmltree.gif)
 
 ### DOM의 계층구조
-Document
-  Element (attribute)
-    Text
-    
+```
+Document                 // html
+  Element (attribute)    // tag
+    Text                 // string
+``` 
 ### 실제 html
 ```html
 <html>
   <body>
-    <div id='name'>
+    <div name='username' id='fname'>
+      Gildong
+    </div>
+    <div name='username' id='lname'>
       Hong
     </div>
   </body>
@@ -19,5 +23,7 @@ Document
 
 ### javascript에서의 접근
 ```javascript
-let name = document.getElementById("name");   // 'Hong'
+let lname = document.getElementById("lname");             // 'Hong'
+let usernames = document.getElementsByName("username");   // ['Gildong','Hong']
+var divs = document.getElementsByTagName("div");          // [<div name='username' id='fname'>Gildong</div>, <div name='username' id='lname'>Hong</div>]
 ```
