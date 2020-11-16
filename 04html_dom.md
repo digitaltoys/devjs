@@ -30,12 +30,12 @@ let usernames = document.getElementsByName("username");          // [<div name='
 var divs = document.getElementsByTagName("div")[0].innerText;    // 'Gildong'
 
 var bodys = document.getElementsByTagName("body")[0].innerHTML   
-// '<div name="username" id="fname">
-      Gildong
-    </div>
-    <div name="username" id="lname">
-      Hong
-    </div>'
+//   '<div name="username" id="fname">
+//      Gildong
+//    </div>
+//    <div name="username" id="lname">
+//      Hong
+//    </div>'
 ```
 > 주의
 > - getElementById는 1개를 리턴하지만, getElementsByName, getElementsByTagName은 배열을 리턴함
