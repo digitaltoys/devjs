@@ -8,7 +8,7 @@
 - 배열은 []로 표현한다.
 - value의 접근은 .연산자를 사용한다
 ```javascript
-let user = {name:'Hong Gildong', tel:'010-2222-3333'
+let user = {name:'Hong Gildong', tel:'010-2222-3333'}
 user.name      // 'Hong Gildong'
 ```
 
