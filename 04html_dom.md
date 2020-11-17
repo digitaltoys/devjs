@@ -53,6 +53,6 @@ var bodys = document.getElementsByTagName("body")[0].innerHTML
 </html>
 ```
 
-### 2. 위 코드에 input을 변경하고 버튼을 누르면 변경된 input 값이 출력 되도록 코드를 수정하세요
+### 2. 위 코드에 브라우저에서 input을 변경하고 버튼을 누르면 변경된 input 값이 출력 되도록 코드를 수정하세요
 
 ## [< index](index.md)
