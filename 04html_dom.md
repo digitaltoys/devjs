@@ -23,11 +23,14 @@ Document                 // html
 
 ### javascript에서의 접근
 ```javascript
-let lname = document.getElementById("lname").innerText;          // 'Hong'
+let lname = document.getElementById("lname").innerText;
+// 'Hong'
 
-let usernames = document.getElementsByName("username");          // [<div name='username' id='fname'>Gildong</div>, <div name='username' id='lname'>Hong</div>]
+let usernames = document.getElementsByName("username");
+// [<div name='username' id='fname'>Gildong</div>, <div name='username' id='lname'>Hong</div>]
 
-var divs = document.getElementsByTagName("div")[0].innerText;    // 'Gildong'
+var divs = document.getElementsByTagName("div")[0].innerText;
+// 'Gildong'
 
 var bodys = document.getElementsByTagName("body")[0].innerHTML   
 //   '<div name="username" id="fname">
