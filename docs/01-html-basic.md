@@ -7,7 +7,7 @@ nav_order: 2
 ## html 기초
 
 ### tag 구조
-![tag](/img/html_element2.png)
+![tag](/devjs/img/html_element2.png)
 
 
 ### html 구조
