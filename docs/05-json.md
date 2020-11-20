@@ -1,6 +1,6 @@
 ---
 layout: default
-title 5. json 구조
+title : 5. json 구조
 nav_order: 6
 ---
 
