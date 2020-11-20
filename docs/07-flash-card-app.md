@@ -16,6 +16,7 @@ nav_exclude: true
 - 단어만 화면에 출력합니다
 - 단어를 클릭하면 뜻을 보여주고, 다시 뜻을 클릭하면 단어를 보여줍니다
 
+
 <details>
 <summary>완료 후 다음 단계를 진행</summary>
 <div markdown="1">
@@ -26,6 +27,7 @@ nav_exclude: true
 - 단어의 끝까지 진행하면 처음으로 되돌아 갑니다.
 </div>
 </details>
+
 
 <details>
 <summary>다음 단계</summary>
@@ -40,6 +42,7 @@ nav_exclude: true
 <details>
 <summary>다음 단계</summary>
 <div markdown="1">
+  
 
 ## 4. 단계
 - 다음 버튼 대신 O, X 버튼을 추가 합니다
