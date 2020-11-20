@@ -1,3 +1,9 @@
+---
+layout: default
+title 3. JS 시작
+nav_order: 3
+---
+
 ## JS 시작
 ### code 선언하기
 1. web page 화면에 javascript를 이용해서 'hello world' 출력해보세요 (hint - [innerHTML](https://www.w3schools.com/js/js_output.asp))
