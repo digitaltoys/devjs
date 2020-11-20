@@ -1,7 +1,7 @@
 ---
 layout: default
 title 3. JS 시작
-nav_order: 3
+nav_order: 4
 ---
 
 ## JS 시작
