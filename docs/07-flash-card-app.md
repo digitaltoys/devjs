@@ -7,7 +7,9 @@ nav_exclude: true
 # Flash card app
 단어 암기 앱을 만들어봅시다
 
+<div class="code-example" markdown="1">
 > # Apple
+</div>
 
 ## 1. 단계 
 - 단어와 뜻을 담은 object를 만듭니다. 
