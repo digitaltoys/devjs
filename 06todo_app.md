@@ -1,3 +1,9 @@
+---
+layout: default
+title: Tests for exclusion 1
+nav_exclude: true
+---
+
 ## To Do app
 ### To Do app을 만들어 봅시다
 ```
