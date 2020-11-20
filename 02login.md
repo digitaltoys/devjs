@@ -1,6 +1,6 @@
 ---
 layout: default
-title 1. html 기초
+title 2. html로 로그인 페이지 만들기
 nav_order: 2
 ---
 
