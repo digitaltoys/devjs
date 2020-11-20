@@ -14,9 +14,7 @@ has_toc: false
 [Delete All](#){: .btn }
 
 * html tag 공부하기    
-[Del](#){: .btn}
 * javascript 공부하기  
-[Del](#){: .btn}
 </div>
 
 #### 조건
