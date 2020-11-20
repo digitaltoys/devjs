@@ -1,6 +1,6 @@
 ---
 layout: default
-title 1. html 기초
+title 1 html 기초
 nav_order: 2
 ---
 
