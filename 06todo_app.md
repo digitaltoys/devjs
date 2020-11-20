@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tests for exclusion 1
+title: 06. To Do app
 nav_exclude: true
 ---
 
