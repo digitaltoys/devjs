@@ -1,3 +1,9 @@
+---
+layout: default
+title 1. html 기초
+nav_order: 1
+---
+
 ## html 기초
 
 ### tag 구조
