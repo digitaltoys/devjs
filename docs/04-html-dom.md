@@ -1,6 +1,6 @@
 ---
 layout: default
-title 4. html DOM
+title : 4. html DOM
 nav_order: 5
 ---
 
