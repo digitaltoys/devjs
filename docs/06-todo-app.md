@@ -8,8 +8,7 @@ has_toc: false
 ## To Do app
 ### To Do app을 만들어 봅시다
 <div class="code-example" markdown="1">
-<pre>[             ] [Add](#){: .btn }</pre>
-
+<pre>[             ]</pre> [Add](#){: .btn }
 [Delete All](#){: .btn }
 
 * html tag 공부하기    [Del](#){: .btn .bg-red-300}
