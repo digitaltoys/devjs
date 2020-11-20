@@ -1,3 +1,9 @@
+---
+layout: default
+title 4. html DOM
+nav_order: 4
+---
+
 ## html DOM
 ![DOM](https://www.w3schools.com/js/pic_htmltree.gif)
 
