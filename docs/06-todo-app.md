@@ -24,6 +24,6 @@ has_toc: false
 <details>
 <summary>완료 후 다음 단계를 진행</summary>
 <div markdown="0">
-4. 목록 마다 오른쪽에 삭제버튼을 두어 항목 단위로 삭제하는 기능을 추가합니다.
+<pre>4. 목록 마다 오른쪽에 삭제버튼을 두어 항목 단위로 삭제하는 기능을 추가합니다.</pre>
 </div>
 </details>  
