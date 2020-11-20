@@ -23,7 +23,7 @@ has_toc: false
 3. 전체 삭제 버튼을 누르면 아래쪽에 추가된 목록 모두를 지웁니다.
 <details>
 <summary>완료 후 다음 단계를 진행</summary>
-<div markdown="1">
+<div markdown="0">
 4. 목록 마다 오른쪽에 삭제버튼을 두어 항목 단위로 삭제하는 기능을 추가합니다.
 </div>
 </details>  
