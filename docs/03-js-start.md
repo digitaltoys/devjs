@@ -13,8 +13,3 @@ nav_order: 4
 ### event 사용하기
 5. 3 * 5 = [버튼]   버튼을 클릭하면 답을 출력하는 코드를 작성해보세요 (hint - [onclick](https://www.w3schools.com/js/js_eventsoutput.asp))
 6. input을 만든 후 input에 글자가 입력될때마다 입력된 문자열을 아래에 표시되도록 작성해보세요 (hint - [onchange](https://www.w3schools.com/js/js_eventsoutput.asp))
-
-## [< index](index.md)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTMyNTQwNTBdfQ==
--->
