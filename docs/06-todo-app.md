@@ -11,8 +11,8 @@ has_toc: false
 <pre>[             ]</pre> [Add](#){: .btn }
 [Delete All](#){: .btn }
 
-* html tag 공부하기    [Del](#){: .btn .bg-red-300}
-* javascript 공부하기  [Del](#){: .btn .bg-red-300}
+* html tag 공부하기    [Del](#){: .btn}
+* javascript 공부하기  [Del](#){: .btn}
 </div>
 
 #### 조건
