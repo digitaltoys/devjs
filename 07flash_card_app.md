@@ -1,3 +1,10 @@
+---
+layout: default
+title: Tests for exclusion 0
+has_children: true
+nav_exclude: true
+---
+
 # Flash card app
 단어 암기 앱을 만들어봅시다
 
