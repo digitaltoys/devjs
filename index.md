@@ -1,7 +1,7 @@
 ---
 layout: default
 title Home
-nav_order: 0
+nav_order: 1
 ---
 
 1. [html 기초](01html_basic.md)
