@@ -21,6 +21,7 @@ has_toc: false
 1. input에 내용을 입력하고 add 버튼을 누르면 아래쪽에 입력한 내용이 추가 됩니다 (배열사용)
 2. 내용 추가후 input의 내용은 clear 합니다.
 3. 전체 삭제 버튼을 누르면 아래쪽에 추가된 목록 모두를 지웁니다.
+
 <details>
 <summary>완료 후 다음 단계를 진행</summary>
 <div markdown="1">
