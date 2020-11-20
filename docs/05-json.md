@@ -47,5 +47,3 @@ user.name      // 'Hong Gildong'
 내용: 내용2
 아이디: 유저2
 ```
-
-## [< index](index.md)
