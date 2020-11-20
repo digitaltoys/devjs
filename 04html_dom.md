@@ -24,13 +24,13 @@ Document                 // html
 ### javascript에서의 접근
 ```javascript
 let lname = document.getElementById("lname").innerText;
-// 'Hong'
+          // 'Hong'
 
 let usernames = document.getElementsByName("username");
-// [<div name='username' id='fname'>Gildong</div>, <div name='username' id='lname'>Hong</div>]
+          // [<div name='username' id='fname'>Gildong</div>, <div name='username' id='lname'>Hong</div>]
 
 var divs = document.getElementsByTagName("div")[0].innerText;
-// 'Gildong'
+    // 'Gildong'
 
 var bodys = document.getElementsByTagName("body")[0].innerHTML   
 //   '<div name="username" id="fname">
@@ -59,3 +59,6 @@ var bodys = document.getElementsByTagName("body")[0].innerHTML
 ### 2. 위 코드에 브라우저에서 input을 변경하고 버튼을 누르면 변경된 input 값이 출력 되도록 코드를 수정하세요
 
 ## [< index](index.md)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTg0NTcxNTQ3Nl19
+-->
