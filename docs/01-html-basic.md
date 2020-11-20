@@ -54,6 +54,3 @@ nav_order: 2
 - [참고](https://www.w3schools.com/tags/default.asp)
 2. body tag에 위 tag들을 사용하여 html 만들어보세요
 - [실습](https://codesandbox.io/s/staic-html-u1zun?fontsize=14&hidenavigation=1&theme=dark)
-
-
-## [< index](index.md)
