@@ -12,4 +12,4 @@ nav_order: 1
 3. [JS 시작](docs/03-js-start.md)
 4. [html DOM](docs/04-html-dom.md)
 5. [json](docs/05-json.md)
-6. [To do app](docs/06-to-do-app.md)
+6. [To do app](docs/06-todo-app.md)
