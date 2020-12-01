@@ -2,7 +2,6 @@
 layout: default
 title: 06. To Do app
 nav_exclude: true
-has_toc: true
 ---
 
 ## To Do app
