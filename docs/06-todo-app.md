@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 06. To Do app
+title: 6. To-Do app
 nav_order: 7
 nav_exclude: false
 ---
 
-## To Do app
-### To Do app을 만들어 봅시다
+## To-Do app
+### To-Do app을 만들어 봅시다
 <div class="code-example" markdown="1">
 <pre>[             ] </pre>
 [Add](#){: .btn}
