@@ -1,7 +1,8 @@
 ---
 layout: default
 title: 06. To Do app
-nav_exclude: true
+nav_order: 7
+nav_exclude: false
 ---
 
 ## To Do app
