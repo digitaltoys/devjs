@@ -1,7 +1,6 @@
 ---
 layout: default
 title: 7. Flash card app
-nav_exclude: true
 ---
 
 # Flash card app
