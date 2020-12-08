@@ -22,7 +22,7 @@ nav_exclude: false
 ```
 let todos = ['html tag 공부하기', 'javascript 공부하기'];
 
-let listItem = document.getElementById('list_item');
+let listItem = document.getElementById('listItem');
 listItem.innerHTML = todos.map( ... )
 ```
 2. 내용 추가후 input의 내용은 clear 합니다.
