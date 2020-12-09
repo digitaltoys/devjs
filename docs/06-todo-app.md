@@ -19,7 +19,8 @@ nav_exclude: false
 
 ## 1. 단계 
 1. input에 내용을 입력하고 add 버튼을 누르면 아래쪽에 입력한 내용이 추가 됩니다 (배열 변수)
-```
+
+```javascript
 let todos = ['html tag 공부하기', 'javascript 공부하기'];
 
 let listItem = document.getElementById('listItem');
