@@ -11,3 +11,4 @@ return param;
 - - -  
 result:  
 <div id='result' width='400' height='100'></div>
+<div id='resultmsg'></div>
