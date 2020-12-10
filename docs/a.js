@@ -53,7 +53,7 @@ function onRunClick() {
   if(typeof result == "object") {
     document.getElementById("resultmsg").innerHTML = result.equals(target)? 'Success':'Fail';
   } else {
-    document.getElementById("resultmsg").innerHTML = result === target? 'Success':'Fail';
+    document.getElementById("resultmsg").innerHTML = result === target? '<div style="color:blue">Success</div>':'<div style="color:red">Fail</div>';
   }
   document.getElementById("result").innerHTML = ((typeof result == "object")?JSON.stringify(result):result.toString() || '');
 }
