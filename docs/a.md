@@ -5,7 +5,7 @@ let param =
 function myFunc(param) = {  
 <textarea id='func' rows="10" cols="100">
 return param;
-</textarea>  
+</textarea>
 }  
 <button id='run' onclick='onRunClick()'>run</button>
 - - -  
