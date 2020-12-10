@@ -1,1 +1,3 @@
-<input />
+## input
+
+<input type="text" id="name" name="name"/>
