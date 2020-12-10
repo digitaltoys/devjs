@@ -3,9 +3,9 @@ input
 let param =  
 <input type="text" id="param"/>  
 function myFunc(param) = {  
-<textarea id='func' rows="10" cols="150"'></textarea>  
+<textarea id='func' rows="10" cols="150"'>{}</textarea>  
 }  
-<button id='run' onclick='onRunClick()'/>
+<button id='run' onclick='onRunClick()'>run</button>
 <script>
 let param = document.getElementById("param").value;
 let func;
