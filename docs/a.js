@@ -24,5 +24,5 @@ function onRunClick() {
   } else {
     document.getElementById("resultmsg").innerHTML = result === target? 'Success':'Fail';
   }
-  document.getElementById("result").innerHTML = typeof result + ((typeof result == "object")?JSON.stringify(result):result.toString() || '');
+  document.getElementById("result").innerHTML = ((typeof result == "object")?JSON.stringify(result):result.toString() || '');
 }
