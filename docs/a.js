@@ -52,7 +52,7 @@ function onRunClick() {
   let target = eval(document.getElementById("require").innerText);
   
   if(typeof result == "object") {
-    document.getElementById("resultmsg").innerHTML = result.equals(target)? 'Success':'Fail';
+    document.getElementById("resultmsg").innerHTML = result.equals(target)? '<div style="color:blue">Success</div>':'<div style="color:red">Fail</div>';
   } else {
     document.getElementById("resultmsg").innerHTML = result === target? '<div style="color:blue">Success</div>':'<div style="color:red">Fail</div>';
   }
