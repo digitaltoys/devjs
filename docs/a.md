@@ -1,7 +1,7 @@
 input
 
 let param =  
-<input type="text" id="param"/>  
+<input type="text" id="param"></input>  
 function myFunc(param) = {  
 <textarea id='func' rows="10" cols="150"'>{}</textarea>  
 }  
