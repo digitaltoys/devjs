@@ -2,8 +2,8 @@ input
 
 let param =  
 <input type="text" id="param"/>  
-function myFunc(param) =   
-<textarea id='func' rows="10" cols="150"></textarea>  
+function myFunc(param) = {  
+<textarea id='func' rows="10" cols="100"></textarea>  
 }  
 <button id='run' onclick='onRunClick()'>run</button>
 <script>
@@ -11,6 +11,8 @@ let param = document.getElementById("param").value;
 let func;
 function onRunClick() = {
   func = eval('(param)=>{'+document.getElementById("func").value+'}');
+  console.log(param,func);
+  console.log(document.getElementById("func").value);
   document.getElementById("result").innerHTML = func(param);
 }
   
