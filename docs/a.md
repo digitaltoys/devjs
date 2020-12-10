@@ -6,7 +6,7 @@ function myFunc(param) = {
 <textarea id='func' rows="10" cols="100">
 return result;
 </textarea>  
-}  
+}
 <button id='run' onclick='onRunClick()'>run</button>  
 - - -  
 result:  
