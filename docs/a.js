@@ -1,8 +1,4 @@
 var result = undefined;
-window.onload = function() {
-  document.getElementById("param").value = getCookie('param');
-  document.getElementById("func").value = getCookie('func');
-}
 
 Object.prototype.equals = function(x) {
 	// 인자값의 Type이 object가 아닐경우 false를 리턴한다.
@@ -34,6 +30,12 @@ function getCookie(cookie_name) {
       return unescape(y); // unescape로 디코딩 후 값 리턴
     }
   }
+}
+
+
+window.onload = function() {
+  document.getElementById("param").value = getCookie('param');
+  document.getElementById("func").value = getCookie('func');
 }
 
 function onRunClick() {
