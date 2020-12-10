@@ -41,10 +41,11 @@ window.onload = function() {
 function onRunClick() {
   result = undefined;
   let param = document.getElementById("param").value || '';
-  eval('param = '+param);
   let func = document.getElementById("func").value || '';
   setCookie('param', param, 9999999);
   setCookie('func', func, 9999999);
+
+  eval('param = '+param);
   func = eval('(param)=>{'+func+'}');
   
   result = func(param);
