@@ -1,6 +1,8 @@
 var result = undefined;
-document.getElementById("param").value = getCookie('param');
-document.getElementById("func").value = getCookie('func');
+window.onload = function() {
+  document.getElementById("param").value = getCookie('param');
+  document.getElementById("func").value = getCookie('func');
+}
 
 Object.prototype.equals = function(x) {
 	// 인자값의 Type이 object가 아닐경우 false를 리턴한다.
