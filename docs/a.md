@@ -13,4 +13,4 @@ require result:
 - - -  
 result:  
 <div id='result' width='400' height='100'></div>
-<div id='resultmsg'></div>
+<div id='resultmsg' style='font-weight:bold'></div>
