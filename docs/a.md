@@ -7,6 +7,7 @@ function myFunc(param) = {
 return param;
 </textarea>
 }  
+<div id='require'>[2,4,6,8,10]</div>
 <button id='run' onclick='onRunClick()'>run</button>
 - - -  
 result:  
