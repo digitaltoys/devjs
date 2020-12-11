@@ -10,7 +10,7 @@ return param;
 require output:  
 <div id='require'>[2,4,6,8,10]</div>
 - - -  
-<button id='run' onclick='onRunClick()'>run</button>
+<button id='run' onclick='onRunClick()'>run</button>  
 result:  
 <div id='result' width='400' height='100'></div>
 <div id='resultmsg' style='font-weight:bold'></div>
