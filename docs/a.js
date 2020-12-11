@@ -45,10 +45,9 @@ function onRunClick() {
   setCookie('param', param, 9999999);
   setCookie('func', func, 9999999);
 
-  eval('param = '+param);
-  func = eval('(param)=>{'+func+'}');
-  
   try {
+    eval('param = '+param);
+    func = eval('(param)=>{'+func+'}');
     result = func(param);
   } catch (exception e) {
     resul = undefined;
