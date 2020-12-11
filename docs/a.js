@@ -49,7 +49,7 @@ function onRunClick() {
     eval('param = '+param);
     func = eval('(param)=>{'+func+'}');
     result = func(param);
-  } catch (exception e) {
+  } catch (e) {
     console.log('error -----');
     result = undefined;
   }
