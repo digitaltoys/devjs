@@ -50,7 +50,7 @@ function onRunClick() {
     func = eval('(param)=>{'+func+'}');
     result = func(param);
   } catch (exception e) {
-    resul = undefined;
+    result = undefined;
   }
   let target = eval(document.getElementById("require").innerText);
   
