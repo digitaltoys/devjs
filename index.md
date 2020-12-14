@@ -5,12 +5,13 @@ nav_order: 1
 ---
 
 # Home
+
+웹 개발을 위한 자바스크립트 학습 사이트입니다.
+
+각 주제를 학습하고 힌트의 레퍼런스를 참고하여 퀴즈를 풀어보세요
+실제 개발시에도 레퍼런스를 참조하면서 개발을 진행하면 편리합니다. 자주 참고 하면서 눈에 익히세요
+
+퀴즈는 단계별로 되어 있습니다.
+각 단계는 해당 주제를 이해하는데 도움을 주기 위한 것이므로 한번에 마지막 단계로 건너뛰지 마세요.
 차례대로 진행하고 미션을 완료하면 다음 단계를 진행하세요
 
-1. [html 기초](docs/01-html-basic.md)
-2. [로그인 페이지 만들기](docs/02-login.md)
-3. [JS 시작](docs/03-js-start.md)
-4. [html DOM](docs/04-html-dom.md)
-5. [json](docs/05-json.md)
-6. [To-do app](docs/06-todo-app.md)
-7. [Flash card app](docs/07-flash-card-app.md)
