@@ -1,7 +1,6 @@
 <script src="./a.js"></script>
 
-let param =  
-<input type="text" id="param"/>  
+let param = <div id="param">[1,2,3,4,5]</div>
 function myFunc(param) = {  
 <textarea id='func' rows="10" cols="100">
 return param;
