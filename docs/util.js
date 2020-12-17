@@ -48,6 +48,7 @@ function onRunClick() {
   try {
     eval('param = '+param);
     func = eval('(param)=>{'+func+'}');
+    console.log('func = ',func);
     result = func(param);
   } catch (e) {
     console.log('error -----', '(param)=>{'+func+'}');
