@@ -63,3 +63,4 @@ arr2 = arr1.slice(3,2); // arr1 = [0, 1, 2, 3, 4 , 5, 6, 7, 8, 9] arr2 = [3, 4] 
 <button id='run' onclick='onRunClick()'>run</button>  
 <div>result:  <b id='result' style='color:green'></b></div>
 <div id='resultmsg' style='font-weight:bold'></div>
+<br><br>
