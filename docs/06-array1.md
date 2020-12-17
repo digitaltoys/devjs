@@ -14,12 +14,12 @@ nav_exclude: false
 배열의 끝에 추가 제거는 push, pop을 사용합니다.
 배열의 앞에 추가 제거는 unshift, shift를 사용합니다.
 ```javascript
-let famang = ['Facebook', 'Apple', 'Microsoft', 'Amazone', 'Netflix, 'Google'];
-famang.push('AMD');       // ['Facebook', 'Apple', 'Microsoft', 'Amazone', 'Netflix, 'Google', 'AMD']
-let amd = famang.pop();   // ['Facebook', 'Apple', 'Microsoft', 'Amazone', 'Netflix, 'Google']
+let famang = ['Facebook', 'Apple', 'Microsoft', 'Amazone', 'Netflix', 'Google'];
+famang.push('AMD');       // ['Facebook', 'Apple', 'Microsoft', 'Amazone', 'Netflix', 'Google', 'AMD']
+let amd = famang.pop();   // ['Facebook', 'Apple', 'Microsoft', 'Amazone', 'Netflix', 'Google']
 
-famang.unshift('AMD');    // ['AMD', 'Facebook', 'Apple', 'Microsoft', 'Amazone', 'Netflix, 'Google']
-amd = famang.shift();     // ['Facebook', 'Apple', 'Microsoft', 'Amazone', 'Netflix, 'Google']
+famang.unshift('AMD');    // ['AMD', 'Facebook', 'Apple', 'Microsoft', 'Amazone', 'Netflix', 'Google']
+amd = famang.shift();     // ['Facebook', 'Apple', 'Microsoft', 'Amazone', 'Netflix', 'Google']
 ```
 <br>  
 
@@ -28,7 +28,7 @@ concat(배열2) - 배열2를 배열에 합쳐집니다
 ```javascript
 let famang1 = ['Facebook', 'Apple', 'Microsoft'];
 let famang2 = ['Amazone', 'Netflix', 'Google'];
-let famang = famang1.concat(famang2);               // ['Facebook', 'Apple', 'Microsoft', 'Amazone', 'Netflix, 'Google']
+let famang = famang1.concat(famang2);               // ['Facebook', 'Apple', 'Microsoft', 'Amazone', 'Netflix', 'Google']
 
 ```
 <br> 
