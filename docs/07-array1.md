@@ -63,7 +63,7 @@ return param;
 </textarea>
 }  
 require output:  
-<div id='require'>['A', 'B', 'C', 'D', 'E', 'F', ' G']</div>
+<div id='require'>['A', 'B', 'C', 'D', 'E', 'F', 'G']</div>
 - - -  
 <button id='run' onclick='onRunClick()'>run</button>  
 result:  
