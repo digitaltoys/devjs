@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 7. Flash card app
-nav_order: 8
-nav_exclude: true
+title: 6. Array 1
+nav_order: 7
+nav_exclude: false
 ---
 <script src="./util.js"></script>
 
