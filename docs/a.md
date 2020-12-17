@@ -1,4 +1,4 @@
-<script src="./a.js"></script>
+<script src="./util.js"></script>
 
 let param =
 <div id="param">[1,2,3,4,5]</div>  
