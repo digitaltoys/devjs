@@ -55,7 +55,7 @@ arr2 = arr1.slice(3,2); // arr1 = [0, 1, 2, 3, 4 , 5, 6, 7, 8, 9] arr2 = [3, 4] 
 ### 퀴즈
 배열 ["A","B",3,4,"D","F",6,"G"]을 output ["A","B","C","D","E","F","G"]이 되도록 함수를 작성하세요  
 
-<div>let param = </div><div id="param">["A","B",3,4,"D","F",6,"G"]</div>  
+<div>let param = <b id="param">["A","B",3,4,"D","F",6,"G"]</b></div>
 function myFunc(param) = {  
 <textarea id='func' rows="10" cols="100">
 return param;
