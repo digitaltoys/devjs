@@ -40,7 +40,8 @@ window.onload = function() {
 
 function onRunClick() {
   result = undefined;
-  let param = document.getElementById("param").value || '';
+  let idParam = document.getElementById("param");
+  let param = (idParam.value != '')? idParam.value : (idParam.innerText || '');
   let func = document.getElementById("func").value || '';
   setCookie('param', param, 9999999);
   setCookie('func', func, 9999999);
