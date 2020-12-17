@@ -61,9 +61,7 @@ function myFunc(param) = {
 return param;
 </textarea>
 }  
-require output:  
-<div id='require'>["A","B","C","D","E","F","G"]</div>
+<div>require output:  <b id='require'>["A","B","C","D","E","F","G"]</b></div>
 <button id='run' onclick='onRunClick()'>run</button>  
-result:  
-<div id='result' width='400' height='100'></div>
+<div>result:  <b id='result' style='color:green'></b></div>
 <div id='resultmsg' style='font-weight:bold'></div>
