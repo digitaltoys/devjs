@@ -87,7 +87,7 @@ famang.find((item) => item > "H");      // "Microsoft"
 배열 ["Facebook", "Apple", "Microsoft", "Amazone", "Netflix", "Google"]을   
 output 
 ```html
-<div>"Facebook"</div><div>"Apple"</div><div>"Microsoft"</div><div>"Amazone"</div><div>"Netflix"</div><div>"Google"</div>
+<div>Facebook</div><div>Apple</div><div>Microsoft</div><div>Amazone</div><div>Netflix</div><div>Google</div>
 ```
 이 되도록 코드를 작성하세요  
 
@@ -96,9 +96,9 @@ output
 </textarea>
 <div>console.log(param);</div>
 ```html
-<div>"Facebook"</div><div>"Apple"</div><div>"Microsoft"</div><div>"Amazone"</div><div>"Netflix"</div><div>"Google"</div>
+<div>Facebook</div><div>Apple</div><div>Microsoft</div><div>Amazone</div><div>Netflix</div><div>Google</div>
 ```
-<div id='require' style="display:none"><div>"Facebook"</div><div>"Apple"</div><div>"Microsoft"</div><div>"Amazone"</div><div>"Netflix"</div><div>"Google"</div></div>  
+<pre id='require' style="display:none"><div>"Facebook"</div><div>"Apple"</div><div>"Microsoft"</div><div>"Amazone"</div><div>"Netflix"</div><div>"Google"</div></pre>  
 <button id='run' onclick='onRunClick()'>run</button>  
 <div>result:  <b id='result' style='color:green'></b></div>
 <div id='resultmsg' style='font-weight:bold'></div>
