@@ -95,7 +95,10 @@ output
 <textarea id='func' rows="10" cols="100">
 </textarea>
 <div>console.log(param);</div>
-<div id='require'><div>"Facebook"</div><div>"Apple"</div><div>"Microsoft"</div><div>"Amazone"</div><div>"Netflix"</div><div>"Google"</div></div>  
+```html
+<div>"Facebook"</div><div>"Apple"</div><div>"Microsoft"</div><div>"Amazone"</div><div>"Netflix"</div><div>"Google"</div>
+```
+<div id='require' style="display:none"><div>"Facebook"</div><div>"Apple"</div><div>"Microsoft"</div><div>"Amazone"</div><div>"Netflix"</div><div>"Google"</div></div>  
 <button id='run' onclick='onRunClick()'>run</button>  
 <div>result:  <b id='result' style='color:green'></b></div>
 <div id='resultmsg' style='font-weight:bold'></div>
