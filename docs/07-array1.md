@@ -59,7 +59,7 @@ arr2 = arr1.slice(3,2); // arr1 = [0, 1, 2, 3, 4 , 5, 6, 7, 8, 9] arr2 = [3, 4] 
 <textarea id='func' rows="10" cols="100">
 </textarea>
 <div>console.log(param);</div>
-<b id='require'>["A","B","C","D","E","F","G"]</b>
+<div id='require'>["A","B","C","D","E","F","G"]</div>  
 <button id='run' onclick='onRunClick()'>run</button>  
 <div>result:  <b id='result' style='color:green'></b></div>
 <div id='resultmsg' style='font-weight:bold'></div>
