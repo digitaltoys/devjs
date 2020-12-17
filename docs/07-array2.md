@@ -70,3 +70,15 @@ let famang = ["Facebook", "Apple", "Microsoft", "Amazone", "Netflix", "Google"];
 let html = famang.reduce((ret, item) => ret + item + "<br>", "");
 // html = Facebook<br>Apple<br>Microsoft<br>Amazone<br>Netflix<br>Google<br>
 ```
+
+### 요소 찾기
+indexOf, lastIndexOf - 값을 요소에서 찾고 일치하면 인덱스를 리턴합니다.
+```javascript
+let famang = ["Facebook", "Apple", "Microsoft", "Amazone", "Netflix", "Google"];
+famang.indexOf("Netflix");      // 4
+```
+find - 조건에 만족하는 첫번째 요소를 리턴합니다  
+```javascript
+let famang = ["Facebook", "Apple", "Microsoft", "Amazone", "Netflix", "Google"];
+famang.find((item) => item > "H");      // "Microsoft"
+```
