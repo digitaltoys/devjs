@@ -63,7 +63,6 @@ return param;
 }  
 require output:  
 <div id='require'>["A","B","C","D","E","F","G"]</div>
-<hr>
 <button id='run' onclick='onRunClick()'>run</button>  
 result:  
 <div id='result' width='400' height='100'></div>
