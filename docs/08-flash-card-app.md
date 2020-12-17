@@ -2,6 +2,7 @@
 layout: default
 title: 8. Flash card app
 nav_order: 9
+nav_exclude: true
 ---
 
 # Flash card app
