@@ -94,11 +94,12 @@ output
 <div>let param = <b id="param">["Facebook", "Apple", "Microsoft", "Amazone", "Netflix", "Google"]</b></div>
 <textarea id='func' rows="10" cols="100">
 </textarea>
-<div>console.log(param);</div>
+<div>console.log(param);</div>  
+
 ```html
 <div>Facebook</div><div>Apple</div><div>Microsoft</div><div>Amazone</div><div>Netflix</div><div>Google</div>
 ```
-<pre id='require' style="display:none"><div>"Facebook"</div><div>"Apple"</div><div>"Microsoft"</div><div>"Amazone"</div><div>"Netflix"</div><div>"Google"</div></pre>  
+<pre id='require' style="display:none"><div>Facebook</div><div>Apple</div><div>Microsoft</div><div>Amazone</div><div>Netflix</div><div>Google</div></pre>  
 <button id='run' onclick='onRunClick()'>run</button>  
 <div>result:  <b id='result' style='color:green'></b></div>
 <div id='resultmsg' style='font-weight:bold'></div>
