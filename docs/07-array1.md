@@ -55,8 +55,7 @@ arr2 = arr1.slice(3,2);           // arr1 = [0, 1, 2, 3, 4 , 5, 6, 7, 8, 9]     
 ### 퀴즈
 배열 ["A","B",3,4,"D","F",6,"G"]을 output ["A","B","C","D","E","F","G"]이 되도록 함수를 작성하세요  
 
-let param =
-<div id="param">["A","B",3,4,"D","F",6,"G"]</div>  
+let param =  <div id="param">["A","B",3,4,"D","F",6,"G"]</div>  
 function myFunc(param) = {  
 <textarea id='func' rows="10" cols="100">
 return param;
@@ -64,7 +63,7 @@ return param;
 }  
 require output:  
 <div id='require'>["A","B","C","D","E","F","G"]</div>
-- - -  
+<hr>
 <button id='run' onclick='onRunClick()'>run</button>  
 result:  
 <div id='result' width='400' height='100'></div>
