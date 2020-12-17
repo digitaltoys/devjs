@@ -62,8 +62,8 @@ let newFamang = famang.map((item) => item + "<br>");
 // newFamang = ["Facebook<br>", "Apple<br>", "Microsoft<br>", "Amazone<br>", "Netflix<br>", "Google<br>"]
 ```
 
-reduce(func, 초기값) - 각 요소의 연산 결과를 누적할 수 있습니다.
-forEach 예문을 reduce를 사용해서 바꿔보면 다음과 같습니다.
+reduce(func, 초기값) - 각 요소의 연산 결과를 누적할 수 있습니다.  
+forEach 예문을 reduce를 사용해서 바꿔보면 다음과 같습니다.  
 **주의 - 초기값을 넣지 않으면 배열의 첫번째 요소가 초기값으로 사용되고 초기값은 함수가 적용되지 않습니다**
 ```javascript
 let famang = ["Facebook", "Apple", "Microsoft", "Amazone", "Netflix", "Google"];
