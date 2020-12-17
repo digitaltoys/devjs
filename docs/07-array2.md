@@ -84,9 +84,11 @@ famang.find((item) => item > "H");      // "Microsoft"
 ```
 
 ### 퀴즈
-배열 ["Facebook", "Apple", "Microsoft", "Amazone", "Netflix", "Google"]을 
+배열 ["Facebook", "Apple", "Microsoft", "Amazone", "Netflix", "Google"]을   
 output 
+```html
 <div>"Facebook"</div><div>"Apple"</div><div>"Microsoft"</div><div>"Amazone"</div><div>"Netflix"</div><div>"Google"</div>
+```
 이 되도록 코드를 작성하세요  
 
 <div>let param = <b id="param">["Facebook", "Apple", "Microsoft", "Amazone", "Netflix", "Google"]</b></div>
