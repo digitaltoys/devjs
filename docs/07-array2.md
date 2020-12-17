@@ -82,3 +82,19 @@ find - 조건에 만족하는 첫번째 요소를 리턴합니다
 let famang = ["Facebook", "Apple", "Microsoft", "Amazone", "Netflix", "Google"];
 famang.find((item) => item > "H");      // "Microsoft"
 ```
+
+### 퀴즈
+배열 ["Facebook", "Apple", "Microsoft", "Amazone", "Netflix", "Google"]을 
+output 
+<div>"Facebook"</div><div>"Apple"</div><div>"Microsoft"</div><div>"Amazone"</div><div>"Netflix"</div><div>"Google"</div>
+이 되도록 코드를 작성하세요  
+
+<div>let param = <b id="param">["Facebook", "Apple", "Microsoft", "Amazone", "Netflix", "Google"]</b></div>
+<textarea id='func' rows="10" cols="100">
+</textarea>
+<div>console.log(param);</div>
+<div id='require'><div>"Facebook"</div><div>"Apple"</div><div>"Microsoft"</div><div>"Amazone"</div><div>"Netflix"</div><div>"Google"</div></div>  
+<button id='run' onclick='onRunClick()'>run</button>  
+<div>result:  <b id='result' style='color:green'></b></div>
+<div id='resultmsg' style='font-weight:bold'></div>
+<br><br>
