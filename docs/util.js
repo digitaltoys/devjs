@@ -55,7 +55,10 @@ function onRunClick() {
     console.log('error -----', '(param)=>{'+func+'}');
     result = undefined;
   }
-  let target = eval(document.getElementById("require").innerText);
+	
+  let require = document.getElementById("require") && document.getElementById("require").innerText;
+  let requireHtml = document.getElementById("requireHtml") && document.getElementById("requireHtml").innerHTML;
+  let target = eval(require || requireHTML);
   
   if(typeof result == "object") {
     document.getElementById("resultmsg").innerHTML = result.equals(target)? '<div style="color:blue">Success</div>':'<div style="color:red">Fail</div>';
