@@ -6,7 +6,7 @@ nav_exclude: false
 ---
 <script src="./util.js"></script>
 
-# Array
+# Array 1
 배열 객체를 알아봅시다  
 <br> 
 
