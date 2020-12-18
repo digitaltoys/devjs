@@ -59,6 +59,7 @@ function onRunClick() {
   let require = document.getElementById("require") && document.getElementById("require").innerText;
   let requireHtml = document.getElementById("requireHtml") && document.getElementById("requireHtml").innerHTML;
   let target = eval(require) || requireHtml;
+  console.log(target);
   
   if(typeof result == "object") {
     document.getElementById("resultmsg").innerHTML = result.equals(target)? '<div style="color:blue">Success</div>':'<div style="color:red">Fail</div>';
