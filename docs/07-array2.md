@@ -2,7 +2,7 @@
 layout: default
 title: 7. Array 2
 nav_order: 8
-nav_exclude: true
+nav_exclude: false
 ---
 <script src="./util.js"></script>
 
