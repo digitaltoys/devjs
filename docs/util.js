@@ -45,6 +45,7 @@ function onRunClick() {
   let func = document.getElementById("func").value || '';
 //   setCookie('param', param, 9999999);
   setCookie('func', func, 9999999);
+  console.log(param);
 
   try {
     eval('param = '+param);
