@@ -29,7 +29,7 @@ concat(배열2) - 배열2를 배열에 합쳐집니다
 let famang1 = ['Facebook', 'Apple', 'Microsoft'];
 let famang2 = ['Amazone', 'Netflix', 'Google'];
 let famang = famang1.concat(famang2);               // ['Facebook', 'Apple', 'Microsoft', 'Amazone', 'Netflix', 'Google']
-
+let line = famang1.join('');                        // 'FacebookAppleMicrosoft'
 ```
 <br> 
 
