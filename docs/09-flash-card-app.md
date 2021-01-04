@@ -35,7 +35,7 @@ nav_exclude: false
 <div markdown="1">
 
 ## 3. 단계
-- 단어 object에 count 값을 추가합니다.
+- 단어 JSON object에 count 값을 추가합니다.
 - 단어가 화면에 1번 보여지면 count 값을 1 증가 시킵니다.
 </div>
 </details>
