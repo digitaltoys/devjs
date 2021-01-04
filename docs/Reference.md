@@ -29,4 +29,4 @@ nav_order: 99
 - [Transitions](https://www.w3schools.com/css/css3_transitions.asp)
 - [Animations](https://www.w3schools.com/css/css3_animations.asp)
 - [Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
-- [CSS Flexbox](https://flexboxfroggy.com/#ko)
+[CSS Flexbox](https://flexboxfroggy.com/#ko)
