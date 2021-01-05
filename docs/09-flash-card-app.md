@@ -19,7 +19,7 @@ nav_exclude: false
 
 
 <details>
-<summary>완료 후 다음 단계를 진행</summary>
+<summary>완료 후 다음 기능을 추가하세요</summary>
 <div markdown="1">
 
 ## 2. 단계
