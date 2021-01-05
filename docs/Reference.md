@@ -10,7 +10,7 @@ nav_order: 99
 
 [CSS](https://www.w3schools.com/css/css_syntax.asp)  
 ![CSS](https://www.w3schools.com/css/selector.gif)  
-Decoration
+Declaration
 - [Colors](https://www.w3schools.com/css/css_colors.asp)
 - [Backgrounds](https://www.w3schools.com/css/css_background.asp)
 - [Borders](https://www.w3schools.com/css/css_border.asp)
