@@ -23,7 +23,8 @@ nav_order: 99
 - [Float](https://www.w3schools.com/css/css_float.asp)
 - [Align](https://www.w3schools.com/css/css_align.asp)
 - [Opacity](https://www.w3schools.com/css/css_image_transparency.asp)  
-Advanced
+
+CSS Advanced
 - [2D Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp)
 - [3D Transforms](https://www.w3schools.com/css/css3_3dtransforms.asp)
 - [Transitions](https://www.w3schools.com/css/css3_transitions.asp)
