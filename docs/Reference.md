@@ -6,8 +6,9 @@ nav_order: 99
 [HTML](https://www.w3schools.com/tags/default.asp)  
 [Javascript](https://www.w3schools.com/js/default.asp)  
 [Codesandbox](https://codesandbox.io/) - Web Ide    
-[CSS](https://www.w3schools.com/css/css_syntax.asp)
-[CSS Selector](https://flukeout.github.io/)
+[CSS](https://www.w3schools.com/css/css_syntax.asp)  
+
+Decoration
 - [Colors](https://www.w3schools.com/css/css_colors.asp)
 - [Backgrounds](https://www.w3schools.com/css/css_background.asp)
 - [Borders](https://www.w3schools.com/css/css_border.asp)
@@ -31,4 +32,5 @@ CSS Advanced
 - [Animations](https://www.w3schools.com/css/css3_animations.asp)
 - [Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)  
 
+[CSS Selector](https://flukeout.github.io/)
 [CSS Flexbox](https://flexboxfroggy.com/#ko)
